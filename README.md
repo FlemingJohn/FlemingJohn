@@ -8,7 +8,7 @@
 - 💻 I love working on tech projects    
 - 🎯 Goal: To become a successful **Software Development Engineer (SDE)**  
 - 🧠 Passionate about Open Source and Building Real-World Projects  
-- 📫 Reach me at: **flemjohn08.com**
+- 📫 Reach me at: **flemjohn08@gmail.com**
 
 ---
 
@@ -44,6 +44,12 @@
 ![Fleming's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FlemingJohn&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FlemingJohn&layout=compact&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com?user=FlemingJohn&theme=radical)
+
+---
+
+### 📊 Leetcode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Fleming_John?theme=light&font=Roboto)
 
 ---
 
