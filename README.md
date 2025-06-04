@@ -5,11 +5,10 @@
 
 ### 💫 About Me
 - 🎓 I'm a B.Tech Information Technology student  
-- 💻 I love working on tech projects, both hardware and software  
-- 🚀 Currently learning **Next.js**, **Flutter**, **Node.js**, and **DSA**  
+- 💻 I love working on tech projects    
 - 🎯 Goal: To become a successful **Software Development Engineer (SDE)**  
 - 🧠 Passionate about Open Source and Building Real-World Projects  
-- 📫 Reach me at: **fleming@example.com**
+- 📫 Reach me at: **flemjohn08.com**
 
 ---
 
