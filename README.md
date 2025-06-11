@@ -1,5 +1,5 @@
 <h1 align="center">I'm Fleming John</h1>
-<h3 align="center">Software Development Engineer (SDE)</h3>
+<h2 align="center">Software Development Engineer (SDE)</h2>
 
 ---
 
@@ -50,7 +50,7 @@
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=white)](https://leetcode.com/Fleming_John)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/flemjohn08)
-[![HackerEarth](https://img.shields.io/badge/HackerEarth-323754?style=flat-square&logo=HackerEarth&logoColor=white)](https://www.hackerearth.com/@flemjohn08)
+[![HackerEarth](https://img.shields.io/badge/HackerEarth-323754?style=flat-square&logo=HackerEarth&logoColor=white)](https://www.hackerearth.com/@flemjohn08/)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/flemjohn)
 
 ---
