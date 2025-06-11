@@ -1,37 +1,28 @@
-<h1 align="center">Hi 👋, I'm Fleming John</h1>
-<h3 align="center">Aspiring Software Development Engineer (SDE) | Tech Explorer | Lifelong Learner</h3>
+<h1 align="center">I'm Fleming John</h1>
+<h3 align="center">Software Development Engineer (SDE)</h3>
 
 ---
 
-### 💫 About Me
-- 🎓 I'm a B.Tech Information Technology student  
-- 💻 I love working on tech projects    
-- 🎯 Goal: To become a successful **Software Development Engineer (SDE)**  
-- 🧠 Passionate about Open Source and Building Real-World Projects  
-- 📫 Reach me at: **flemjohn08@gmail.com**
+### Tech Stack
 
----
-
-### 💼 Tech Stack
-
-#### 👨‍💻 Languages
+#### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-#### 🌐 Frontend
+#### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-#### 🧰 Backend & Databases
+#### Backend & Databases
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-#### 🛠️ Tools & Platforms
+#### Tools & Platforms
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
@@ -39,24 +30,37 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
-![Fleming's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FlemingJohn&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FlemingJohn&layout=compact&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=FlemingJohn&theme=radical)
+![Fleming's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FlemingJohn&show_icons=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FlemingJohn&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff)
+![GitHub Streak](https://streak-stats.demolab.com?user=FlemingJohn&theme=dark&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff)
 
----
 
-### 📊 Leetcode Stats
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/Fleming_John?theme=light&font=Roboto)
 
 ---
 
-### 🔗 Connect with Me
+### Leetcode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Fleming_John?theme=dark&font=Karma)
+
+
+---
+### Coding Profiles
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=white)](https://leetcode.com/Fleming_John)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/flemjohn08)
+[![HackerEarth](https://img.shields.io/badge/HackerEarth-323754?style=flat-square&logo=HackerEarth&logoColor=white)](https://www.hackerearth.com/@flemjohn08)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/flemjohn)
+
+---
+
+### Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fleming-john-0b4ab3263/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:flemhohn08@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FlemingJohn)
 
 ---
+
+
