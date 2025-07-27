@@ -49,19 +49,19 @@
 
 ### 📈 GitHub Activity Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=FlemingJohn&bg_color=000000&color=ffffff&line=00bcd4&point=ffffff&area=true&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=FlemingJohn&bg_color=000000&color=ffffff&line=00bcd4&point=ffffff&area=true&hide_border=true)
 
 ---
 
 ### 📌 GitHub Metrics
 
-<img src="https://github.com/FlemingJohn/FlemingJohn/blob/main/github-metrics.svg" alt="Metrics" width="100%">
+<img src="https://raw.githubusercontent.com/FlemingJohn/FlemingJohn/main/github-metrics.svg" alt="Metrics" width="100%">
 
 ---
 
 ### 🐍 GitHub Contribution Snake
 
-![snake gif](https://github.com/FlemingJohn/FlemingJohn/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/FlemingJohn/FlemingJohn/output/dist/github-contribution-grid-snake.svg)
 
 ---
 
