@@ -53,18 +53,6 @@
 
 ---
 
-### 📌 GitHub Metrics
-
-<img src="https://raw.githubusercontent.com/FlemingJohn/FlemingJohn/main/github-metrics.svg" alt="Metrics" width="100%">
-
----
-
-### 🐍 GitHub Contribution Snake
-
-![snake gif](https://raw.githubusercontent.com/FlemingJohn/FlemingJohn/output/dist/github-contribution-grid-snake.svg)
-
----
-
 ### 🔢 Leetcode Stats
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Fleming_John?theme=dark&font=Karma)
@@ -87,3 +75,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FlemingJohn)
 
 ---
+
+### 👁️ Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=FlemingJohn)
