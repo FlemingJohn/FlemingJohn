@@ -19,7 +19,7 @@ jobs:
           outputs: |
             ./github-contribution-grid-snake.svg
         env:
-          GITHUB_TOKEN: ${{ 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 }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Push to GitHub
         uses: EndBug/add-and-commit@v9
