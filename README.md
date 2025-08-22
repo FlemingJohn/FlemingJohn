@@ -53,6 +53,12 @@
 
 ---
 
+### 🐍 GitHub Contribution Snake
+
+![snake gif](https://github.com/FlemingJohn/FlemingJohn/blob/output/github-contribution-grid-snake.svg)
+
+---
+
 ### 🔢 Leetcode Stats
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Fleming_John?theme=dark&font=Karma)
