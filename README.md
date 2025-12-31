@@ -1,191 +1,87 @@
-<!-- Header Banner -->
-<div align="center">
-  
-# Fleming John
-
-**Software Engineer | AI/ML Specialist | Cloud Solutions Architect**
-
-[![Email](https://img.shields.io/badge/flemjohn08%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:flemjohn08@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/fleming-john)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/FlemingJohn)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://flemjohn.dev)
-
-</div>
+<h1 align="center">🚀 I'm Fleming John</h1>
+<h2 align="center">👨‍💻 Software Development Engineer (SDE)</h2>
 
 ---
 
-## Professional Summary
+### 🚀 Tech Stack:
 
-Experienced software engineer specializing in **AI-driven solutions**, **cloud architecture**, and **full-stack development**. Proven track record of building scalable applications that deliver measurable business impact. Expertise in leveraging cutting-edge technologies to solve complex real-world problems in healthcare, supply chain, and enterprise systems.
+#### 💻 Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Core Competencies:** AI/ML Integration • Cloud Architecture • Data Engineering • Full-Stack Development • System Design
+#### 🌐 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
----
+#### ⚙️ Backend & Databases
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-## Technical Expertise
-
-**Programming Languages**  
-`Python` `JavaScript` `TypeScript` `SQL` `Dart` `Solidity` `Bash`
-
-**Frontend Development**  
-`React` `Next.js` `Vue.js` `Flutter` `Tailwind CSS` `Material-UI` `Responsive Design`
-
-**Backend & APIs**  
-`Node.js` `Express` `FastAPI` `REST APIs` `GraphQL` `Microservices` `Serverless`
-
-**Cloud & Infrastructure**  
-`Snowflake` `Google Cloud Platform` `AWS` `Firebase` `Docker` `Kubernetes` `CI/CD`
-
-**Data & AI/ML**  
-`Pandas` `NumPy` `Scikit-learn` `TensorFlow` `Plotly` `Data Visualization` `Predictive Analytics`
-
-**Databases**  
-`PostgreSQL` `MongoDB` `Firestore` `Redis` `Snowflake` `MySQL`
-
-**Blockchain & Web3**  
-`Ethereum` `Solidity` `Hardhat` `Mantle Network` `Web3.js` `Smart Contracts`
+#### 🧰 Tools & Platforms
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 ---
 
-## Featured Projects
+### 🏆 GitHub Trophies
 
-### 🏥 StockPulse 360 | AI-Driven Inventory Intelligence
-**Enterprise-grade stock management system for healthcare and public distribution**
-
-- Implemented **AI/ML forecasting** achieving 95% accuracy in demand prediction
-- Reduced stockout incidents by **92%**, preventing supply disruptions affecting 15,000+ patients
-- Built on **Snowflake** with real-time analytics, automated workflows, and intelligent alerting
-- **Tech Stack:** Snowflake, Python, Streamlit, Pandas, Scikit-learn, Plotly
-
-🔗 [View Repository](https://github.com/FlemingJohn/StockPulse-360)
+[![trophy](https://github-profile-trophy.vercel.app/?username=FlemingJohn&theme=gruvbox&margin-w=10&no-bg=true&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
-### 🐾 SafePaw | AI-Powered Incident Management
-**Comprehensive platform for stray animal incident tracking and government coordination**
+### 📊 GitHub Stats
 
-- Developed multi-agent AI system using **Google Gemini** for automated incident analysis
-- Integrated real-time hospital finder with **Google Maps AI grounding**
-- Built dual-portal architecture serving both citizens and government officials
-- **Tech Stack:** Flutter, Firebase, Google Gemini AI, Node.js, Google Maps API
+![Fleming's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FlemingJohn&show_icons=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FlemingJohn&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff)
+![GitHub Streak](https://streak-stats.demolab.com?user=FlemingJohn&theme=dark&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff)
 
 ---
 
-### 🎁 FlexiGift | Blockchain Gift Card Platform
-**Decentralized gift card ecosystem with scheduled delivery capabilities**
+### 📈 GitHub Activity Graph
 
-- Architected smart contract system on **Mantle Network** for secure gift card transactions
-- Implemented scheduled delivery mechanism with on-chain verification
-- Integrated Web3 wallet connectivity and blockchain transaction management
-- **Tech Stack:** Next.js, Solidity, Hardhat, Mantle Network, ethers.js, Wagmi
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=FlemingJohn&bg_color=000000&color=ffffff&line=00bcd4&point=ffffff&area=true&hide_border=true)
 
 ---
 
-### 🌾 AgriBoard | Agricultural Monitoring Dashboard
-**IoT-enabled agricultural monitoring system for precision farming**
+### 🐍 GitHub Contribution Snake
 
-- Created comprehensive dashboard for real-time crop monitoring and analytics
-- Implemented growth tracking with animated visualizations and predictive insights
-- Designed professional UI/UX optimized for field operations
-- **Tech Stack:** Flutter, Firebase, IoT Integration, Data Visualization
+![snake gif](https://github.com/FlemingJohn/FlemingJohn/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
-## Professional Experience
+### 🔢 Leetcode Stats
 
-**Software Engineer** | *Freelance & Contract Work*  
-`2022 - Present`
-
-- Architected and deployed **10+ production applications** serving thousands of users
-- Specialized in AI/ML integration, cloud infrastructure, and full-stack development
-- Delivered solutions resulting in **₹40L+ annual savings** through process optimization
-- Led end-to-end development from requirements gathering to deployment and maintenance
-
-**Key Achievements:**
-- 🏆 Winner - Snowflake AI for Good Hackathon (StockPulse 360)
-- 📈 Achieved 95%+ accuracy in AI-driven forecasting systems
-- ⚡ Reduced operational costs by 40% through intelligent automation
-- 🚀 Deployed scalable solutions handling 100K+ daily transactions
+![LeetCode Stats](https://leetcard.jacoblin.cool/Fleming_John?theme=dark&font=Karma)
 
 ---
 
-## Education & Certifications
+### 👨‍💻 Coding Profiles
 
-**Bachelor of Technology** | Computer Science & Engineering  
-*[University Name]* | `2018 - 2022`
-
-**Certifications:**
-- Google Cloud Professional Cloud Architect
-- AWS Certified Solutions Architect
-- Snowflake SnowPro Core Certification
-- Advanced Machine Learning Specialization
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=white)](https://leetcode.com/Fleming_John)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/flemjohn08)
+[![HackerEarth](https://img.shields.io/badge/HackerEarth-323754?style=flat-square&logo=HackerEarth&logoColor=white)](https://www.hackerearth.com/@flemjohn08/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/flemjohn)
 
 ---
 
-## Open Source Contributions
+### 📬 Connect with Me
 
-Actively contributing to open-source projects and maintaining several repositories:
-
-- 🌟 **150+ GitHub Stars** across projects
-- 🔧 Regular contributor to cloud and AI/ML repositories
-- 📚 Published technical documentation and guides
-- 🤝 Mentoring junior developers in hackathons and coding communities
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fleming-john-0b4ab3263/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:flemhohn08@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FlemingJohn)
 
 ---
 
-## Technical Writing & Thought Leadership
+### 👁️ Profile Views
 
-- 📝 Published articles on AI/ML implementation strategies
-- 🎤 Speaker at local tech meetups on cloud architecture
-- 📖 Maintained comprehensive documentation for all projects
-- 💡 Shared insights on modern development practices
-
----
-
-## GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=FlemingJohn&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&count_private=true" alt="GitHub Stats" height="165">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlemingJohn&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" height="165">
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=FlemingJohn&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9" alt="GitHub Streak" width="500">
-
-</div>
-
----
-
-## Contact & Collaboration
-
-I'm open to discussing:
-- 💼 **Contract opportunities** in AI/ML, cloud architecture, or full-stack development
-- 🤝 **Collaborative projects** with social impact or innovative technology
-- 🎯 **Consulting engagements** for enterprise solutions
-- 📧 **Technical discussions** on system design and architecture
-
-**Preferred Contact:** [flemjohn08@gmail.com](mailto:flemjohn08@gmail.com)
-
-**Response Time:** Within 24 hours for professional inquiries
-
----
-
-<div align="center">
-
-### Professional Networks
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fleming-john)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/FlemingJohn)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-Profile-F58025?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/flemjohn)
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=FlemingJohn&color=58A6FF&style=flat&label=Profile+Views)
-
-*Last Updated: December 2025*
-
-</div>
+![Profile Views](https://komarev.com/ghpvc/?username=FlemingJohn)
