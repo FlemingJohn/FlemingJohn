@@ -15,6 +15,15 @@
   <a href="mailto:your@email.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
   </a>
+  <a href="https://leetcode.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" target="_blank" />
+  </a>
+  <a href="https://hackerrank.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://reddit.com/user/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/-Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" target="_blank" />
+  </a>
 </div>
 
 <div align="center">
@@ -28,33 +37,23 @@
 
   ### 🛠️ Technical Arsenal
 
-  **Languages**  
+  <h3>Languages</h3>
   <img src="https://skillicons.dev/icons?i=java,python,c,js,ts&theme=dark" />
 
-  <br/>
-
-  **Frontend**  
+  <h3>Frontend</h3>
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,bootstrap&theme=dark" />
 
-  <br/>
-
-  **Backend**  
+  <h3>Backend</h3>
   <img src="https://skillicons.dev/icons?i=nodejs,express,springboot&theme=dark" />
 
-  <br/>
-
-  **Database**  
+  <h3>Database</h3>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" />
 
-  <br/>
-
-  **Cloud Platforms**  
+  <h3>Cloud Platforms</h3>
   <img src="https://skillicons.dev/icons?i=gcp,firebase,vercel,railway&theme=dark" />
 
-  <br/>
-
-  **DevOps & Tools**  
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions&theme=dark" /> |
+  <h3>DevOps & Tools</h3>
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions&theme=dark" />
 
 </div>
 
