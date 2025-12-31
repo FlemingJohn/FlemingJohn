@@ -1,51 +1,65 @@
-<!-- 🎆 HEADER BANNER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4e00c9,100:a800ff&height=200&section=header&text=Fleming%20John&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=220&section=header&text=Fleming%20John&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Engineer%20%7C%20Cloud%20Enthusiast&descAlignY=60&descSize=20"/>
+</div>
 
-<!-- ✍️ ANIMATED TYPING INTRO -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A800FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Cloud+Learner+(AWS+%26+GCP);IoT+%26+AI+Project+Builder;Engineering+Student;Building+Real+World+Projects">
-</p>
+<div align="center">
+  <a href="https://linkedin.com/in/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://twitter.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://yourwebsite.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" target="_blank" />
+  </a>
+  <a href="mailto:your@email.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
+  </a>
+</div>
 
----
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Building+Scalable+Cloud+Solutions;Crafting+Elegant+Web+Experiences;Exploring+AI+%26+System+Design;Always+Learning+%26+Improving" alt="Typing SVG" />
+</div>
 
-## 🧩 Tech Stack & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,c,js,react,tailwind,html,css,bootstrap,nodejs,spring,mongodb,mysql,aws,gcp&theme=dark" />
-</p>
+<br/>
 
----
+<div align="center">
+  
 
-## 🏆 3D Trophy Board
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=FlemingJohn&theme=algolia&no-bg=true&no-frame=true&margin-w=15" />
-</p>
+  ### 🛠️ Technical Arsenal
 
----
+  **Languages**  
+  <img src="https://skillicons.dev/icons?i=java,python,c,js,ts&theme=dark" />
 
-## ☁️ Animated Tech Cloud
-<p align="center">
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?titleColor=fff&lineHeight=10&theme=radical&title=Tech+Cloud&lineCount=3&line1=Java,Python,JS;C,SQL;Spring,Node,React,Tailwind&line2=AWS,GCP,Docker;Git,Postman;MongoDB,MySQL&line3=Linux,Firebase;APIs,Microservices;Cloud+Deployments" />
-</p>
+  <br/>
 
----
+  **Frontend**  
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,bootstrap&theme=dark" />
 
-## 📌 Pinned Projects
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=FlemingJohn&repo=Land-Registry-System&theme=react&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=FlemingJohn&repo=Blood-Donation-Platform&theme=react&hide_border=true"/>
-</p>
+  <br/>
 
----
+  **Backend**  
+  <img src="https://skillicons.dev/icons?i=nodejs,express,springboot&theme=dark" />
 
-## 🐍 Snake Animation Footer
-<p align="center">
-  <img src="https://github.com/FlemingJohn/FlemingJohn/blob/output/github-contribution-grid-snake.svg"/>
-</p>
+  <br/>
 
----
+  **Database**  
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" />
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a800ff,100:4e00c9&height=150&section=footer"/>
-</p>
+  <br/>
+
+  **Cloud Platforms**  
+  <img src="https://skillicons.dev/icons?i=gcp,firebase,vercel,railway&theme=dark" />
+
+  <br/>
+
+  **DevOps & Tools**  
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions&theme=dark" /> |
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=100&section=footer"/>
+</div>
